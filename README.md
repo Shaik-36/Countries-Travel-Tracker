@@ -21,17 +21,25 @@ Download PostgreSQL
 https://www.postgresql.org/download/
 ```
 
+<p>2. Clone the Repository</p>
 
-<p>2. Install the node modules and dependencies</p>
+```
+git clone https://github.com/Shaik-36/Countries-Travel-Tracker
+```
+
+
+<p>3. Install the node modules and dependencies</p>
 
 ```
 npm install
 ```
 
-<p>3. Running the Application</p>
+<p>4. Running the Application</p>
 
 ```
 nodemon index.js
 ```
+<p>The application will be running at https://http://localhost:3000 </p>
+
 
 
