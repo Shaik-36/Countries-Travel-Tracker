@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Family-Travel-Tracker</h1>
+<h1 align="center" id="title">Countries-Travel-Tracker</h1>
 
 
 
@@ -14,9 +14,13 @@
 
 <p>1. Database Creation</p>
 
-```
 Firstly You have to install PostgreSQL and create database and data as shown in the DATABASE_Queries.sql file
+
+Download PostgreSQL
 ```
+https://www.postgresql.org/download/
+```
+
 
 <p>2. Install the node modules and dependencies</p>
 
@@ -30,6 +34,4 @@ npm install
 nodemon index.js
 ```
 
-<h2>🛡️ License:</h2>
 
-This project is licensed under the
