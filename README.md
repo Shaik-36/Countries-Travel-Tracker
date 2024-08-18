@@ -39,7 +39,7 @@ npm install
 ```
 nodemon index.js
 ```
-<p>The application will be running at https://http://localhost:3000 </p>
+<p>The application will be running at https://localhost:3000 </p>
 
 
 
